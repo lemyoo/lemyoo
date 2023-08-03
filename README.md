@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lemyoo
-- 👀 I’m interested in nodejs and react
+- 👀 I’m interested in nodejs and react and C# (dotnet webapi and dotnet maui)
 - 💞️ I’m looking to collaborate on any challenging project
 - 📫 How to reach me emmmanuellarteymohammed@gmail.com
 
